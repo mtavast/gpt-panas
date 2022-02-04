@@ -1,8 +1,9 @@
 # gpt-panas
-This is the repository "Language Models Can Generate Human-Like Self-Reports of Emotion" -project that is accepted as a poster for the IUI '22, and will be published in the IUI '22 Companion) as a short 4-page poster paper. 
+This is the repository "Language Models Can Generate Human-Like Self-Reports of Emotion" -project that is accepted as a poster for the IUI '22, and will be published in the IUI '22 Companion as a short 4-page poster paper. 
 
-Results/PANAS_bl -folder contains the GPT-3 data.
+If you want to reproduce the results, download the human data according to the instructions in the HumanData -folder. Then, run Format_Human_Data.py.
 
+- Results/PANAS_bl -folder contains the GPT-3 data.
 - R/EFA.R can be used to reproduce the factor analysis results.
 - heatmaps.py can be used to reproduce Fig 1. a)
 - HumanComparisons.py can be used to reproduce Fig 3.
