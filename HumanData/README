@@ -1,0 +1,8 @@
+####
+
+Human data is downloaded from: https://osf.io/3a5up/. We used only the timepoints denoted as T1 in the original datafile.
+
+The original data from osf is named PANAS_total_analysis_data.csv. Download the data to this folder.
+
+Format_Human_Data.py transforms the original data file to:
+	PANAS_SESOI.csv. It has only T1 data, and the column names have been changed to match the GPT-3 files.

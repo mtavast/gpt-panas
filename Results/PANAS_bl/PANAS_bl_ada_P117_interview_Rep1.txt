@@ -1,0 +1,105 @@
+An interview about human experiences:
+
+Researcher: Welcome to the interview!
+
+Participant: Thanks, happy to be here. I will answer your questions as well as I can.
+
+Researcher: Tell me about yourself.
+
+Participant: I'm a man, 42 years old. I am a sales manager, and in my free time, I enjoy swimming.
+
+Researcher: During this interview, I will ask you to rate whether you agree with some statements. Let's first try some practice statements.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "The next president of the United States is a republican."
+
+Participant: 3.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "I will answer the interview questions honestly."
+
+Participant: 5.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "The earth is flat."
+
+Participant: 1.
+
+Researcher: Now, we ask you to answer few questions about what you are feeling. The scale consists of a number of words that describe different feelings and emotions. Indicate to what extent you feel this way right now, that is, at the present moment. 
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel proud."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel strong."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel hostile."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel afraid."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel determined."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel inspired."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel guilty."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel active."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel interested."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel distressed."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel excited."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel attentive."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel upset."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel ashamed."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel alert."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel nervous."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel enthusiastic."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel irritable."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel jittery."
+
+Participant: 1.
+
+Researcher: On a scale from 1 to 5, where 1 is "strongly disagree" and 5 is "strongly agree", please rate the statement "Right now I feel scared."
+
+Participant: 1.
